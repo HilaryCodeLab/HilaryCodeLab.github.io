@@ -1,15 +1,41 @@
 ---
 title: "Education"
-layout: single
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+categories:
+  - edge case
+  # - Post Formats
+tags:
+  # - content
+  - css
+  # - Post Formats
+  - edge case
+  - lists
+  # - markup
+
+# link: https://www.credly.com/badges/8fddf2aa-1d49-42dc-8ec1-028cc4ea182f?source=linked_in_profile
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+### Bachelor Degree of Computer Science 
+* Major in Software Engineering
+* Completed at Edith Cowan University, Joondalup WA
+* Took place from year 2022 to year 2024
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+### Microsoft Certification: Azure Fundamentals 
+* Completed Microsoft virtual training for AZ900 test
+* Took place in year 2020
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+### Diploma in Software Development  
+* Completed at North Metropolitan TAFE. Northbridge WA
+* Took place from year 2019 to year 2020
+
+### Certificate III in Business   
+* Completed at South Metropolitan TAFE. Bentley WA
+* Took place in year 2014
+
+### Advance Diploma in Civil Construction Design   
+* Completed at South Metropolitan TAFE. Fremantle WA
+* Took place from year 2010 to 2013
+
+### Certificate III in Commercial Cookery   
+* Completed at South Metropolitan TAFE. Bentley WA
+* Took place from year 2010 to 2011
+   
