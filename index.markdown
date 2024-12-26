@@ -20,12 +20,12 @@ feature_row:
     url: "/portfolio/skills"
     btn_class: "btn--primary"
   - image_path: assets/images/experience.jpg
-    url: "/portfolio/experience"
-    title: "Experience"
+    url: "/portfolio/projects"
+    title: "Projects"
     btn_class: "btn--primary"
   - image_path: assets/images/interest.jpg
-    title: "Interest"
-    url: "/portfolio/interest"
+    title: "Strengths"
+    url: "/portfolio/strengths"
     btn_class: "btn--primary"
 ---
 {% include feature_row %}

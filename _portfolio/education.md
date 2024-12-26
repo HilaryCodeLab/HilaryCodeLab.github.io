@@ -10,9 +10,18 @@ tags:
   - edge case
   - lists
   # - markup
-
-# link: https://www.credly.com/badges/8fddf2aa-1d49-42dc-8ec1-028cc4ea182f?source=linked_in_profile
+toc: true
+toc_label: "Table of Contents"
+toc_icon: "cog"
+layout: single
+sidebar:
+  - title: "Role"
+    text: "Designer, Front-End Developer"
+  - title: "Responsibilities"
+    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
+
+<!-- # link: https://www.credly.com/badges/8fddf2aa-1d49-42dc-8ec1-028cc4ea182f?source=linked_in_profile -->
 
 ### Bachelor Degree of Computer Science 
 * Major in Software Engineering
