@@ -2,11 +2,6 @@
 title: "C#"
 layout: archive
 permalink: /portfolio/skills/cSharp
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 * Tools & IDEs: Visual Studio

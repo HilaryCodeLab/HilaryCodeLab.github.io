@@ -2,11 +2,6 @@
 title: "Python"
 layout: archive
 permalink: /portfolio/skills/python
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 * Tools & IDEs: VS Code, PyCharm

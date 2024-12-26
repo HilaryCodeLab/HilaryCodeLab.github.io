@@ -2,11 +2,6 @@
 title: "Linux"
 layout: archive
 permalink: /portfolio/skills/linux
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 * Tools & Skills:
