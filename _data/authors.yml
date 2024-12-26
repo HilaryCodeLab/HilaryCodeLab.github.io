@@ -1,7 +1,7 @@
 Hilary Soong:
   name : "Hilary Soong"
-  bio : "Good day! I came to Perth since 2010, it is my home now."
-  avatar      : "/assets/images/profile_photo.jpg"
+  bio : "I am passionate about how technology improves everyday life and am inspired to build innovative systems that contribute to the ongoing technology revolution."
+  avatar: "/assets/images/profile_photo.jpg"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

@@ -1,11 +1,6 @@
 ---
 title: "Projects"
 layout: archive
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 
 ## [BaddyApp](../projects/baddyapp)

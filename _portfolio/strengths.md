@@ -1,15 +1,6 @@
 ---
 title: "Strengths"
 layout: archive
-# layout: single
-# toc: true
-# toc_label: "Table of Contents"
-# toc_icon: "cog"
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 According to my CliftonStrengths Assessment results, my strengths are categorized into three domains: <span style="color: plum">Executing</span>, <span style="color: royalblue">Relationship building</span> and <span style="color: green">Strategic Thinking</span>. These domains reflect how I approach tasks, connect with others, and develop strategies. Here are my top five strengths:
 

@@ -2,11 +2,11 @@
 title: "Skills"
 classes: wide
 layout: archive
-sidebar:
-  - title: "Role"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
+# sidebar:
+#   - title: "Role"
+#     text: "Designer, Front-End Developer"
+#   - title: "Responsibilities"
+#     text: "Reuters try PR stupid commenters should isn't a business model"
 ---
 These are the valuable skills I have gained since I began programming. Each skill is broken down with relevant details including tools, frameworks, and projects to provide a comprehensive overview of my expertise. 
 <!-- ## Skills  -->

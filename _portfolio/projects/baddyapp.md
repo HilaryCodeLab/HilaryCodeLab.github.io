@@ -11,7 +11,7 @@ title: "BaddyApp"
 A web app I developed for my cousin Alex, an enthusiastic badminton session organizer and player. Alex manages weekly sessions for a group of around 15 players, with potential for growth, charging $10 per attendee. To streamline his management process, this app allows him to efficiently track player attendance and outstanding payments. It also enables players to view their individual attendance records and payment details, promoting transparency and simplifying the overall experience for everyone involved.
 
 ## URL: 
-[baddyapp.com](https:baddyapp.com)
+[baddyapp.com](https://baddyapp.com/)
 ## Tech Stack:
 * Frontend: ReactJs
 * Backend: PHP
