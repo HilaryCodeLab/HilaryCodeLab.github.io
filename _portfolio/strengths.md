@@ -20,6 +20,6 @@ According to my CliftonStrengths Assessment results, my strengths are categorize
 <span style="color: green">I have an innate curiosity to learn and grow. Whether it’s gathering information, ideas, or forming relationships, I thrive on acquiring and sharing knowledge to fuel self-development.</span>
 
 
-<div style="text-align: center;">
+<div style="margin:auto; padding:auto;">
   <a href="/" class="btn btn--primary">Return to Home</a>
 </div>
